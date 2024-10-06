@@ -1,0 +1,1 @@
+# Aplicativo-de-Invers-o-de-Sequ-ncia-Num-rica
