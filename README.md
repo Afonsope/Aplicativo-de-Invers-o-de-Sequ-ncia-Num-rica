@@ -1,1 +1,2 @@
 # Aplicativo-de-Invers-o-de-Sequ-ncia-Num-rica
+Este projeto, desenvolvido em C# como um aplicativo de console, solicita ao usuário que insira uma sequência de 15 números. O sistema armazena os números em um array e, em seguida, inverte a ordem dos elementos inseridos. Após a inversão, o programa exibe os números digitados em ordem decrescente, simulando uma listagem invertida. A lógica utiliza um loop for para capturar os dados e outro para exibir a sequência invertida, tornando-o uma ferramenta prática para explorar conceitos de arrays e manipulação de dados em C#.
